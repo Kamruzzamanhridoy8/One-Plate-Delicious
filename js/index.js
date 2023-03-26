@@ -40,6 +40,7 @@ searchbox.addEventListener("keypress", function(event) {
     console.log(event.key);
     if (event.key === "Enter") {
         getmeals(boxvalue);
+        searchbox.value=''
     }
 });
 
