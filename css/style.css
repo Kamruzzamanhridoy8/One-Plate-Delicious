@@ -1,0 +1,33 @@
+.Deleciuse{
+    font-family: 'Pacifico', cursive;
+    color: rgb(141, 141, 5);
+    margin-bottom: 20px;
+}
+.oneplate{
+    /* font-family: 'Poppins', sans-serif; */
+    letter-spacing: 15px;
+    color: rgb(137, 89, 7);
+}
+
+#mealspusher{
+    margin-top: 10px;
+}
+.form-control{
+    width: 600px;
+    border-radius: 30px;
+}
+.btn-outline-success{
+    border-radius: 0px 30px 30px 0px;
+    margin-left: -81px;
+    background-color: rgb(85, 39, 237);
+    color: white;
+}
+.tertiary{
+    background-color: rgb(231, 5, 126);
+    height: 100px;
+    /* margin-top: 50px; */
+    
+}
+.mealCard{
+    cursor: pointer;
+}
