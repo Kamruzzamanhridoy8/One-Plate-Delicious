@@ -1,12 +1,16 @@
 .Deleciuse{
     font-family: 'Pacifico', cursive;
     color: rgb(141, 141, 5);
-    margin-bottom: 20px;
+    margin-bottom: 16px;
+    margin-top: -18px;
+    margin-left: -55px;
+    font-size: 29px;
 }
 .oneplate{
     /* font-family: 'Poppins', sans-serif; */
-    letter-spacing: 15px;
+    letter-spacing: -2px;
     color: rgb(137, 89, 7);
+    margin-top: 2px;
 }
 
 #mealspusher{
