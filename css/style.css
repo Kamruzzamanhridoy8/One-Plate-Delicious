@@ -12,7 +12,15 @@
     color: rgb(137, 89, 7);
     margin-top: 2px;
 }
-
+.headerlogo{
+    margin-left: 100px;
+}
+.headerlogo>img{
+    width: 50px;
+    position:absolute;
+    left: 651px;
+    top: 19px;
+}
 #mealspusher{
     margin-top: 10px;
 }
@@ -34,4 +42,57 @@
 }
 .mealCard{
     cursor: pointer;
+}
+
+
+
+
+
+
+.footer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    background-color: #0A0826;
+}
+.footer-header{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.footer-header>h1{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+.footer-header>p{
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+}
+.footer-icon{
+    text-align: center;
+}
+.footer-icon>a>i{
+    font-size: 25px;
+    margin: 10px;
+    color: white;
+}
+.footer-icon>a>.fab{
+    transition: linear .5s;
+}
+.fa-facebook:hover{
+    color: #1876EF;
+}
+.fa-twitter:hover{
+    color: #1EA1F2;
+}
+.fa-whatsapp:hover{
+    color: #41C553;
+}
+.fa-instagram:hover{
+    color: #C105E9;
+}
+.fa-linkedin:hover{
+    color: #337DAF;
 }
